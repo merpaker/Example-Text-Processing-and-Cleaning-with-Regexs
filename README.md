@@ -206,7 +206,7 @@ The four output variables, in order, are:
 1. The name of the person speaking, e.g. "Senator Gallinger"
 2. The comment the person made, e.g. "As the questions have been repeatedly read and printed in the proceedings, I presume it is not necessary that I should read them in full."
 3. The section of testimony under which the comment was said, e.g. "TRUMAN G. PALMER" for the section "TESTIMONY OF TRUMAN G. PALMER"
-4. The index of the testimony, incrementing by one each time a new section of testmiony
+4. The index of the testimony, incrementing by one for each new section of testmiony
 
 With only a few straightforward edits, the code can be adjusted to only output some of this information.
 
