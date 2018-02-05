@@ -1,5 +1,5 @@
 ## Example-Text-Processing-and-Cleaning-with-Regexs
-This script demonstrates how regular expressions in Python can be used to clean and process OCR text with many errors in order to generate a workable dataset. The goal in this specific example is to clean US Senate testimony to make a dataset listing the speaker in one column with their testimony in the next column. I also show how to give each comment in the testimony a separate indicator, and how to categorize the comments by the section of testimony they are in.
+This script demonstrates how regular expressions in Python can be used to clean and process OCR text with many errors in order to generate a workable dataset. The goal in this specific example is to clean US Senate testimony to make a dataset listing the speaker in one column with their testimony in the next column. I also show how to categorize the comments by the section of testimony they are in and how to give an index for these sections.
 
 ## What you'll need
 
